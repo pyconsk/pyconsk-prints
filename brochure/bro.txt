@@ -1,0 +1,261 @@
+11-13 March 2016    Bratislava, Slovakia
+
+Welcome aboard
+
+Welcome to the inaugural Pycon Slovakia. We are excited to have you all here. The conference will be held under the auspices of the President of theSlovak republic Andrej Kiska. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat
+
+
+Contact information
+
+If you happen to need any kind of help while in Bratislava at Pycon, do not hesitate and ask us. 
+
+pyconsk@pycon.sk
++421 905 123 456
+
+
+
+
+FOREword of the Media Partner
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat
+
+We do not offend, vilify other members. We behave professionally. Harassment, sexist, racist or otherwise demeaning jokes are improper at our meetings. We will not tolerate any harassment of participants of meetups in any form.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+
+
+
+Code of Conduct
+
+The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines which help steer our interactions and strive to keep Python a positive, successful, and growing community.
+
+A member of the Python community is:
+Open : Members of the community are open to collaboration, whether it's on PEPs, patches, problems, or otherwise. We're receptive to constructive comments and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and can make a difference.
+Considerate : Members of the community are considerate of their peers – other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
+Respectful : Members of the community are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Python community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues.
+
+Overall, we're good to each other. We contribute to this community not because we have to, but because we want to. If we remember that, these guidelines will come naturally.
+
+Slovak Python Community
+PyCon SK and Python Meetup fully identify with the Code of Conduct of the Python community. We create an environment, which is open to everyone, independently of sex, sexual orientation, race, education or religion. All communication should be respectful and on professional level. We will be tolerant to each other.
+
+We do not offend, vilify other members. We behave professionally. Harassment, sexist, racist or otherwise demeaning jokes are improper at our meetings. We will not tolerate any harassment of participants of meetups in any form.
+
+
+
+Photography Policy
+
+Although plenty of people love to take picture, share them or be in them. However, be aware that not everyone wants to be photographed. 
+If you see someone wearing a red sticker, this person does not wish to be photographed. Please do not ask or persuade them. If you find someone with such sticker in one of your photos, it would be nice if you do not share it and remove it from your collection.
+We assume that a person not wearing a red sticker does not mind to be photographed.
+
+
+
+
+Don't suppress your curiosity
+
+Thanks to sli.do we all have a unique possibility to satisfy our curiosity. Anyone in the audience can ask questions via web application and vote for the best ones.
+
+* We have a unique #code so you can use to join in.
+* Ask a question, anonymously or using your name.
+* You can vote up the questions you like the most.
+* The best questions will be read aloud so the speaker can answer.
+
+Visit URL and use our unique CODE.
+
+
+
+
+
+Stay connected
+
+wifi SSID:
+login: 
+password: 
+
+
+
+
+Tweet about Pycon Slovakia
+
+Official Twitter hashtag is #PyConSK 
+
+There will be a lottery from social media posts with this hash tag. So if you want to win a PyCharm license, do not forget to use it!
+
+
+
+Sponsors
+
+We would like to thank you to all sponsors. Without their generous support this event would not be possible.
+
+
+
+Erigones
+
+Professional partner for your cloud infrastrucure
+
+Professional virtualization products and services from Slovakia. Used by companies focused on deploying and maintaining large server farms and scalable server infrastructures.
+
+
+
+Red Hat
+
+The world's open source leader
+
+Red Hat is a rapidly growing company delivering an open source stack of technologies trusted by more than 90% of Fortune 500 companies. Brno is Red Hat's engineering hub in EMEA, with associates working on technologies from middleware to cloud. Rated #3 on Aon Hewitt's list of Best Places to Work in Czech Republic in 2014, this is where people who love open source come to work.
+
+
+
+Python Software Foundation
+
+
+
+vnet
+
+telecommunication solutions
+
+
+Eset
+
+Enjoy safer technologyTM
+
+
+Silver
+
+
+Media Partner
+
+
+
+
+SPy o.z.
+
+The mission of the civic association SPy is to support developers and users of the Python programming language. We support and we spread the programming language Python and other open source technologies and open source ideas in our society. Our goal is to provide help and support for beginners and people who are new to programming. Another goal is to work with schools and other educational institutions, and promote programming (independent of the programming language) in children and young people from the earliest age. We support the area of software development in socially vulnerable or otherwise disadvantaged social groups. We are dedicated to practical use of software development. We want to work on various open source projects, to create open educational content for use in schools as well as self-study and advocate for the use of open technologies in society and the public sector.
+
+
+
+
+Faculty of IT
+
+Faculty of Informatics and Information Technologies (FIIT) is one of the seven faculties of the Slovak University of Technology in Bratislava (SUT). FIIT SUT covers the very area of informatics and information technologies (IIT) in both research and education. FIIT is the first faculty in the Slovak Republic with such mission. In spite of the fact, that FIIT is a new faculty, SUT has long-term experiences in the area of IIT and has achieved several substantial results in this area. A base for the FIIT formation was the place of work, which guaranteed education and research in IIT at the Slovak University of Technology till origination of the Faculty of Informatics and Information Technologies.
+
+
+
+Venue & Catering
+
+Few words about restaurants around. Use your Pycon card to get a discount. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+
+Django girls
+
+Django Girls is a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. We are a volunteers contributing to bring more amazing women into the world of technology. We are making technology more approachable by creating simpler tools and resources designed with empathy.
+
+During Bratislava event, 36 women build their first web application using HTML, CSS, Python and Django.
+
+Since 2014, an army of 311 volunteers in the Django Girls community organized 157 events. We've been to 127 cities in 58 countries.
+
+A total of 3680 incredible women attended events organized by members of our community.
+
+
+
+
+Timetable
+
+Friday
+
+  8:00 Registration
+  9:00 Conference opening 
+  9:20 How import Works, Petr Viktorin (CZ) 
+10:00 Basics of Functional Programming, Andrea Šťeňová (SK)
+10:40 MicroPython, Andrej Mošať (SK)
+11:25 Virtualenv, Flask, Vagrant, etc., Miroslav Beka (SK)
+12:05 Jupyter Notebook At Home, In School, Everywhere, Michal Kaukič (SK)
+13:45 Python And Malware, Peter Matkowski (SK)
+14:40 Django, Django REST Framework, React, Svetlana Margetová (SK)
+15:20 Robot NAO - NAO Programming In Python, Adam Gluch (SK)
+16:10 Mashing Up py.test, coverage.py And ast.py to Take TDD To a New Level, 
+           Tibor Arpas (SK)
+16:50 Tips And Tricks For Using Functional Features of Python, Jakub Ševcech (SK)
+17:30 Lightning Talks
+17:50 Thank You
+
+
+Saturday: Track 1
+
+  8:00 Registration
+  9:00 Opening talk
+  9:20 Teach, Learn And Program, Nick Tollervey (EN)
+10:00 Can Free Software Be a Full Time Job?, Bjarni Runar Einarsson (EN)
+10:35 Building Protocol Libraries The Right Way, Cory Benfield (EN)
+11:20 Documentation-Driven Development: Lessons From the Django Project, 
+           Daniel Procide (EN)
+12:00 Analyzing Networks In Python, Johannes Wachs (EN)
+13:55 Behind The Scenes Of Day-To-Day Software Development At Google, 
+           Petra Cross (EN)
+14:50 Painless Testing With Django, Max Kharandziuk (EN)
+15:25 Python - What You Didn't Know You Didn't Know, 
+           Martina Šturdíková & Laura Mann (EN)
+16:10 Python and DTrace, Jesús Cea Avión (EN)
+16:50 Python Application Security Auditing with Bandit, Michael Scherer (EN)
+17:30 Lightning Talks
+17:50 Thank You
+
+
+
+
+
+
+Saturday: Track 2
+
+10:00 Scientific Computing with Python, Claus Aichinger (EN)
+10:55 Automatic English Text Correction, Tatiana Al-Chueyr Martins (EN)
+11:50 Building Netflow Based NIDS Out of Open Source Components, 
+           Michal Kuffa (EN)
+13:45 Building And Deploying Containerized Python Apps In the Cloud, 
+           Rodolfo Carvalho (EN)
+14:40 Automating Distributed Tasks with Ansible In the Cloud,
+           Büşra Köken (EN)
+15:20 Vagrant - End of "It works on my machine" saga, Věroš Kaplan (CZ)
+16:00 Personalised Emails Using Python and Spark, Tomáš Sirný (SK)
+16:45 Automated Measurements Using Python, Matúš Rehák (SK)
+
+
+Sunday
+Django Girls Workshop
+Workshop for girls who would love to become a web developers. More information in this brochure or ask our volunteers.
+
+Python clinic
+Few words on clinic
+
+
+A word about lightning talks
+
+A lightning talk has only one rule: 5 minutes and stop.
+
+Want to give a talk, but do not have enough material for a full talk? Have a shout-out for an open source project or tool? Want to share a community story (everyone loves stories!)? Preach the must-know fundamentals of virtualenv, PyPI, import this, etc? Then lightning talks are for you!
+These talks are, at max, 5 minute talks done in quick succession in the main hall. No need to fill the whole slot, though!
+
+Lightning talks are low stress, tons of fun, and are rumoured to have originated at one of the very first PyCons years ago.
+
+
+
+
+Thank you
+
+It is hard if not impossible to list all who have helped to make this exciting event happen. However, we would like to try.
+
+Thanks are due to:
+* our generous sponsors and supporters and donors
+* all who contribute to the programme - speakers, workshop tutors
+* conference volunteers
+
+
+In case you would like to send us suggestions to make the conference better,  want to share experiences or you simply want to let us know what you liked or you didn't, please send as a feedback: feedback@pycon.sk.
+
+
+
+www.pycon.sk
+
